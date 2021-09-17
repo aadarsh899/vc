@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "358568437233",
+    "firebase_url": "https://video-commerce-230b5-default-rtdb.firebaseio.com",
+    "project_id": "video-commerce-230b5",
+    "storage_bucket": "video-commerce-230b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358568437233:android:dd300da7933ea2324b9050",
+        "android_client_info": {
+          "package_name": "com.lyca.video"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358568437233-fmsp39obe6jso8i9auhgau4anuach6en.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lyca.video",
+            "certificate_hash": "93606acc05898e6457a2ff007d9a6949152c2da7"
+          }
+        },
+        {
+          "client_id": "358568437233-ihjatvunp6fadkfv6m2ru9dnp68jhg6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVrV0I9G-SnWuzKiPUkoEwox1vnQAw4Ys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358568437233-9a508v3e50qilll7d553dnp32fdv63df.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

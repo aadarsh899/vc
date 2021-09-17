@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/All Intership data/intern 4/TicTic/app/src/main/res/layout/activity_main_menu.xml" value="0.1796875" />
+        <entry key="..\:/All Intership data/intern 4/TicTic/app/src/main/res/layout/activity_post_video.xml" value="0.125" />
+        <entry key="..\:/All Intership data/intern 4/TicTic/app/src/main/res/layout/activity_privacy_video_setting.xml" value="0.125" />
+        <entry key="..\:/All Intership data/intern 4/TicTic/app/src/main/res/layout/activity_taged_videos.xml" value="0.125" />
+        <entry key="..\:/All Intership data/intern 4/TicTic/app/src/main/res/layout/activity_video_recoder.xml" value="0.1796875" />
+        <entry key="..\:/All Intership data/intern 4/TicTic/app/src/main/res/layout/activity_watch_videos.xml" value="0.125" />
+        <entry key="..\:/All Intership data/intern 4/TicTic/app/src/main/res/layout/fragment_home.xml" value="0.125" />
+        <entry key="..\:/All Intership data/intern 4/TicTic/app/src/main/res/layout/fragment_user_name.xml" value="0.1796875" />
+        <entry key="..\:/All Intership data/intern 4/TicTic/app/src/main/res/layout/item_home_layout.xml" value="0.16666666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="SuppressKotlinCodeStyleNotification">
+    <option name="disableForAll" value="true" />
+  </component>
+</project>

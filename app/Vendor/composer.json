@@ -1,6 +1,0 @@
-{
-    "require": {
-        
-        "google/cloud-videointelligence": "^1.12"
-    }
-}
