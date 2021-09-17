@@ -4,19 +4,19 @@ define('API_KEY', '156c4675-9608-4591-1111-00000');
 define('ADMIN_API_KEY', '156c4675-9608-4591-1111-00000');
 
 
-date_default_timezone_set('Asia/Karachi');
-define('BASE_URL', 'https://domain.com/mobileapp_api/');
+date_default_timezone_set('Asia/Kolkata');
+define('BASE_URL', 'http://3.108.30.45/vc/');
 define('APP_STATUS', 'live');///demo/live
-define('APP_NAME', 'tictic');
+define('APP_NAME', 'lyca');
 
 define('ADMIN_RECORDS_PER_PAGE',20);
 define('APP_RECORDS_PER_PAGE',20);
 
 
 define('DATABASE_HOST', 'localhost');
-define('DATABASE_USER', 'password here');
-define('DATABASE_PASSWORD', 'password here');
-define('DATABASE_NAME', 'db name here');
+define('DATABASE_USER', 'root');
+define('DATABASE_PASSWORD', 'abcdlyca');
+define('DATABASE_NAME', 'lyca_db');
 
 
 
@@ -31,7 +31,7 @@ define('WATERMARK_IMAGE_URI', 'app/webroot/img/watermark.png'); //the size shoul
 
 
 define('IMAGE_THUMB_SIZE', '150');
-define('FIREBASE_PUSH_NOTIFICATION_KEY', 'Firebaes Key Here');
+define('FIREBASE_PUSH_NOTIFICATION_KEY', 'AAAAU3xYJfE:APA91bGn-LQn5XDAYIOW_W93VloayEE4YrZB9IVgUDiUHPajgIx2ndx9Dl_7Q36qUX5OLAKDpfitBc1CWnGzkZeuQXJBFxAiCxoH-Ii_wwcmFOOZwEZOJkFBgdZmykKOwhV86pEeF18K');
 
 //Twilio
 define('TWILIO_ACCOUNTSID', 'Account SID Here');
@@ -41,13 +41,13 @@ define('VERIFICATION_PHONENO_MESSAGE', 'Your verification code is');
 
 
 //Facebook
-define('FACEBOOK_APP_ID', 'Facebook App ID Here');
-define('FACEBOOK_APP_SECRET', 'App Secret Here');
+define('FACEBOOK_APP_ID', '1521738944846454');
+define('FACEBOOK_APP_SECRET', 'bf9163542adfe62a038841eaa34d1f9f');
 define('FACEBOOK_GRAPH_VERSION', 'v2.10');
 
 
 //Google
-define('GOOGLE_CLIENT_ID', 'Google Client ID Here.apps.googleusercontent.com');
+define('GOOGLE_CLIENT_ID', '358568437233-9a508v3e50qilll7d553dnp32fdv63df.apps.googleusercontent.com');
 
 //FFMPEG
 
